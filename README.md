@@ -86,8 +86,34 @@ plt.title("Customer Segmets")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
 
+### data.head() :
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118680361/72fd3105-7106-48be-b43c-d31174f1e0e0)
+
+### data.info() :
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118680361/8154ec5c-0405-41a1-a458-d6b8ecc4f5e3)
+
+### Null Values :
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118680361/ab87bc5f-6002-49c7-8459-0844bca2cb26)
+
+### Elbow Graph :
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118680361/90353a5d-aba2-43dc-86ef-a963549b51b4)
+
+### K-Means Cluster Formation :
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118680361/7036c487-58b2-4ec1-a12d-85f87406cd3e)
+
+### Predicted Value :
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118680361/ece4ddca-5c7c-4ed1-886c-b3ca61f645fc)
+
+### Final Graph :
+
+![image](https://github.com/Safeeq-Fazil/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118680361/e2e1d95e-cc12-4aaf-8eec-7b339906474f)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
